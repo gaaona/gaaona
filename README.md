@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![gaaona's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaona&theme=vue&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinkoko)](https://solved.ac/rinkoko/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinkoko)](https://solved.ac/rinkoko/) <img src="http://mazandi.herokuapp.com/api?handle=rinkoko&theme=warm"/>
