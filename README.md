@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-🌱 I completed the 13th Samsung Software Academy for Youth (SSAFY) in May, 2025
-
-🔭 I’m currently working on several projects at SSAFY until the end of this year.
 -->
+🌱 I completed the 13th Samsung Software Academy for Youth (SSAFY) program in May 2025.
+
+🥳 I'm currently developing the front end of a social network service for festivals.
+
+🔭 I’ll be working on several projects at SSAFY until the end of this year.
+
 
 <br />
 
@@ -27,15 +29,18 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="33%">
 
 <h4 align="center">Frontend</h4>  
-<div align="center">   
-<img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<div align="center">
+<img alt="React" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/> <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white"/> <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h4 align="center">Backend</h4>  
 <div align="center">  
-<img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img alt="sqlite" src ="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="amazon-ec2" src ="https://img.shields.io/badge/ec2-DC682E.svg?&style=for-the-badge&logo=ec2&logoColor=white"/> <img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ <img alt="Django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img alt="sqlite" src ="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="amazon-ec2" src ="https://img.shields.io/badge/ec2-DC682E.svg?&style=for-the-badge&logo=ec2&logoColor=white"/> 
+
+<!--<img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
+
 </div>
 
 
