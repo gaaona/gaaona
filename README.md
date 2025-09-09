@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 🔭 I’ll be working on several projects at SSAFY until the end of this year.
 
-🗂️ [Portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74)
-<!--📑🪪-->
+<!--🗂️ [Portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74)
+📑🪪-->
 
 
 <br />
