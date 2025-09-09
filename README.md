@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 🔭 I’ll be working on several projects at SSAFY until the end of this year.
 
+🗂️ [Portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74)
+<!--📑🪪-->
+
 
 <br />
 
@@ -37,7 +40,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">Backend</h4>  
 <div align="center">  
- <img alt="Django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img alt="sqlite" src ="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="firebase" src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>  <img alt="amazon-ec2" src ="https://img.shields.io/badge/ec2-DC682E.svg?&style=for-the-badge&logo=ec2&logoColor=white"/> 
+ <img alt="Django" src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img alt="sqlite" src ="https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="firebase" src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="amazon-ec2" src ="https://img.shields.io/badge/ec2-DC682E.svg?&style=for-the-badge&logo=ec2&logoColor=white"/> 
 
 <!--<img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
 
@@ -48,7 +51,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">Data, LLM & ML</h4>  
 <div align="center">  
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-9AABDD.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/> <img alt="skt-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img alt="pinecone" src="https://img.shields.io/badge/pinecone-000000.svg?style=for-the-badge&logo=pinecone&logoColor=white"/> <img alt="Chroma" src="https://img.shields.io/badge/Chroma-1C3C3C.svg?style=for-the-badge&logo=chroma&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-9AABDD.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/> <img alt="skt-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img alt="pinecone" src="https://img.shields.io/badge/pinecone-000000.svg?style=for-the-badge&logo=pinecone&logoColor=white"/> <img alt="Chroma" src="https://img.shields.io/badge/Chroma-1C3C3C.svg?style=for-the-badge&logo=chroma&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 </td></tr></table>
@@ -71,6 +74,8 @@ Here are some ideas to get you started:
 | 👢&nbsp;**Belcro** | May 2025 – Jun 2025 | A chatbot that uses RAG to answer natural language questions based on Bootstrap documentation and enables live preview of UI components. | Service Design, AI | 
 | 🧾&nbsp;**AIrchive** | Jul 2025 | 	An AI-powered image archiving system that extracts, organizes, and summarizes information from OCR and metadata. | AI, FE | 
 | 🎆&nbsp;**munoo** | Jul 2025 – Aug 2025 | A social networking platform for live performances, offering integrated search of domestic show information, personalized archiving of viewing history, and AI-generated moving posters. | Service Design, FE | 
+
+If you want to know more about my projects, please check [my portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74). (It's written in Korean.)
 <!-- GitHub | Notion | -->
 <!--  --- | --- | -->
 <!-- 비공개 | 비공개 | -->
