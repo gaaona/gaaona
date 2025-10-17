@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 🌱 I completed the 13th Samsung Software Academy for Youth (SSAFY) program in May 2025.
 
-🥳 I'm currently building the frontend and AI modules for a data-driven recommendation mobile application.
+🥳 I am currently the team leader and backend developer for an AIoT service.
 
-🔭 I’ll be working on several projects at SSAFY until the end of this year.
+🔭 I am expected to complete my education at SSAFY by November 2025.
 
-<!--🗂️ [Portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74)
+<!--🗂️ [Portfolio](https://cooperative-television-e79.notion.site/26e1dd568b6180ed8985e817c71fe4e3?pvs=74)
 📑🪪-->
 
 
@@ -69,11 +69,12 @@ Here are some ideas to get you started:
 
 ## Project
 | Name | Duration | Description | Role | 
-| --- | --- | --- |  --- | 
-| 📚&nbsp;**BooKode** | May 2025 | A community platform that recommends books, shares reviews of books and literary venues, and connects readers through personalized AI features. | Service Design, Full Stack | 
-| 👢&nbsp;**Belcro** | May 2025 – Jun 2025 | A chatbot that uses RAG to answer natural language questions based on Bootstrap documentation and enables live preview of UI components. | Service Design, AI | 
-| 🧾&nbsp;**AIrchive** | Jul 2025 | 	An AI-powered image archiving system that extracts, organizes, and summarizes information from OCR and metadata. | AI, FE | 
-| 🎆&nbsp;**munoo** | Jul 2025 – Aug 2025 | A social networking platform for live performances, offering integrated search of domestic show information, personalized archiving of viewing history, and AI-generated moving posters. | Service Design, FE | 
+| --- | --- | --- | --- | 
+| 📚&nbsp;**BooKode** | May 2025 (1 week) | A community platform recommending books and literary venues, enabling personalized AI-driven book reviews and reader interaction. | Service Design, Full Stack Development | 
+| 👢&nbsp;**Belcro** | May 2025 – Jun 2025 (2 weeks) | A chatbot utilizing Retrieval-Augmented Generation (RAG) to answer natural language queries based on Bootstrap documentation, featuring live UI component previews. | Service Design, AI Integration | 
+| 🧾&nbsp;**AIrchive** | Jul 2025 (1 week) | AI-powered image archiving system extracting, organizing, and summarizing text and metadata through OCR technology. | AI Development, Frontend Engineering | 
+| 🎆&nbsp;**munoo** | Jul 2025 – Aug 2025 (7 weeks) | Social networking platform for live performances offering integrated search for domestic shows, personalized viewing archiving, and AI-generated promotional posters. | Service Design, Frontend Development | 
+|&nbsp;**연금술사**| Aug 2025 - Oct 2025 (5 weeks) | Android app assisting young professionals in selecting the best retirement pension portfolios based on expected return rates. | AI Model Development |
 
 If you want to know more about my projects, please check [my portfolio](https://cooperative-television-e79.notion.site/2671dd568b61807eb4d0c2b2310c82eb?pvs=74). (It's written in Korean.)
 <!-- GitHub | Notion | -->
